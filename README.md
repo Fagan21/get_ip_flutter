@@ -1,4 +1,6 @@
 # get_ip
+## !!!DONT USED IN PRODUCTION!!! ##
+This is just repo used for learning purpose and any error will not be supported for this moment.<br /><br />
 
 Helps you acquire the IP address of the user's device. (Works on Android & iOS)
 

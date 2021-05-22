@@ -1,3 +1,6 @@
+## 1.0.0
+Update to support null-safety
+
 ## 0.4.0
 AndroidX migration.
 
